@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welkom op de KID-BOT website!
 
 You can use the [editor on GitHub](https://github.com/Levy2/levy2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
